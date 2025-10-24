@@ -1,0 +1,21 @@
+#life-section h3 {
+  margin: 50px 0;
+}
+
+#life-list,
+#quote {
+  text-align: left;
+  width: 90%;
+  max-width: 550px;
+  margin: 0 auto 50px;
+  line-height: 25px;
+}
+
+#life-list li,
+#quote p {
+  margin: 16px 0;
+}
+
+#quote {
+  font-style: italic;
+}
