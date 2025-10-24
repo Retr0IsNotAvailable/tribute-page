@@ -1,0 +1,1 @@
+A very very simple tribute page from freecodecamp.org's responsive web design 2nd project
